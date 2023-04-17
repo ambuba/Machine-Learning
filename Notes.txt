@@ -1,0 +1,34 @@
+*** Resources 
+
+- https://github.com/Vadikus/practicalDL
+- https://github.com/tensorflow/tfjs-examples
+- https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+- https://mathworld.wolfram.com/Polynomial.html
+- https://mathworld.wolfram.com/LinearEquation.html
+- https://github.com/PacktPublishing/Hands-On-Neural-Networks-with-TensorFlow-2.0
+- https://keras.io/
+- https://github.com/fchollet/deep-learning-with-python-notebooks
+- https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
+
+
+*** Books
+
+- Deep Learning With Python - Francois Chollet
+- Hands-On Machine Learning With cikit-Learn, Keras, and TensorFlow - Aurelien Geron
+- Hands-On Neural Networks With TensorFlow 2.0 - Paolo Galeone
+
+*** Machine Learning, Neural Networks & Deep Learning
+
+- Deep Learning Frameworks - Keras, TensorFlow
+- Statistics - Helps to find some basic information about distributions
+- MAchine Learning - 
+- Neurons - Figure out what is important and what is not (inputs/signals) - activations and deactivations
+- Weights can be assigned to the inputs for prioritization/ignoring (amplify/ignore)
+- The input channels can thus be aggregated/summed overall as summation<input x weight> + bias (es)
+- Sigmoid curve - rationalizes the input so that it fits between 0 and 1
+- This process allows us to develop neuron layers
+- Deep Learning - implies multiple neuron layers (More/deeper layers in the models)
+- Model training - Reinforce correct predictions (backpropagation and increasing the weights accordingly of the corresponding channels) and penalize incorrect ones
+- Channels - Connections between the neurons
+- Training data should be annotated
+
