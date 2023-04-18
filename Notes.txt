@@ -32,3 +32,18 @@
 - Channels - Connections between the neurons
 - Training data should be annotated
 
+
+*** Linear Regression
+
+- Tensor - array or matrix
+- TensorFlow used computational graphs before to optimize operations
+- TensorFlow looks at model description in Python and tries to link this to optimized subroutines in C/C++ for efficiency
+- TensorFlow 2.0 uses eager execution - easier for debugging but eventually switch back to computational graphs
+- Numpy is an efficient implementation on top of MKL (Math Kernel Language)
+- Linear Regression - enable to tweak weights and biases to arrival at an optimal condition
+- Loss function (error) - How far are we in our estimation/guessing to fit into the desired distributions
+- Learning rate (hyperparameter) - avoids overshooting when we are trying to fit into the desired distribution
+- Learning rates control how fast training happens (rate should be set as appropriate - not too small or too large)
+- This is an iterative approach that only gets you close to the optimal solution but not the exact solution
+
+
